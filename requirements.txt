@@ -1,0 +1,7 @@
+pandas
+numpy
+ucimlrepo
+great-expectations
+presidio-analyzer
+fairlearn
+scikit-learn
