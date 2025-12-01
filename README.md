@@ -1,4 +1,3 @@
-# Ethical AI Credit Pipeline
 
 To demonstrates an ethical AI pre-training pipeline on adult income data set
 
