@@ -16,7 +16,7 @@ Fairness & Representation
 - Simple Fairlearn metrics (selection rate, accuracy by group).
 
 flow
-- Automatic dataset download via `ucimlrepo`
+- adult income data set download
 - PII detection with Microsoft Presidio (best effort)
 - Data minimisation (dropping PII / unused columns)
 - Data quality checks using Great Expectations
