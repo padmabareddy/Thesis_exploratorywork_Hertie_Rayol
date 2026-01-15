@@ -1,24 +1,8 @@
 # Data Governance Pipeline - Setup Instructions
 
-## 📁 Files Provided
-
-### Core Implementation Files
-1. **governance_pipeline.py** - Main orchestrator (NEW)
-2. **app_updated.py** - Updated Streamlit interface (REPLACES app.py)
-3. **requirements.txt** - All dependencies
-4. **test_governance.py** - Test script
-
-### Existing Module Files (You Already Have)
-- pii_detector.py
-- data_minimisation.py
-- data_auditor.py
-- deep_eda.py
-- fairlearn_metrics.py
-- data_generator.py
-
 ---
 
-## 🚀 Quick Setup (5 Minutes)
+## Quick Setup 
 
 ### Step 1: Organize Files
 
@@ -92,6 +76,4 @@ python -m streamlit run app.py
    - Check compliance status
    - Review detailed findings
    - Download reports
-
-```
 
